@@ -1,0 +1,12 @@
+C:\Users\Lartek\source\repos\Investor\ApiConnection\obj\Debug\net5.0\ApiConnection.csproj.AssemblyReference.cache
+C:\Users\Lartek\source\repos\Investor\ApiConnection\obj\Debug\net5.0\ApiConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lartek\source\repos\Investor\ApiConnection\obj\Debug\net5.0\ApiConnection.AssemblyInfoInputs.cache
+C:\Users\Lartek\source\repos\Investor\ApiConnection\obj\Debug\net5.0\ApiConnection.AssemblyInfo.cs
+C:\Users\Lartek\source\repos\Investor\ApiConnection\obj\Debug\net5.0\ApiConnection.csproj.CoreCompileInputs.cache
+C:\Users\Lartek\source\repos\Investor\ApiConnection\bin\Debug\net5.0\ApiConnection.deps.json
+C:\Users\Lartek\source\repos\Investor\ApiConnection\bin\Debug\net5.0\ApiConnection.dll
+C:\Users\Lartek\source\repos\Investor\ApiConnection\bin\Debug\net5.0\ref\ApiConnection.dll
+C:\Users\Lartek\source\repos\Investor\ApiConnection\bin\Debug\net5.0\ApiConnection.pdb
+C:\Users\Lartek\source\repos\Investor\ApiConnection\obj\Debug\net5.0\ApiConnection.dll
+C:\Users\Lartek\source\repos\Investor\ApiConnection\obj\Debug\net5.0\ref\ApiConnection.dll
+C:\Users\Lartek\source\repos\Investor\ApiConnection\obj\Debug\net5.0\ApiConnection.pdb

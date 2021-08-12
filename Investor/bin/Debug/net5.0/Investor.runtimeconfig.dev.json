@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lartek\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lartek\\.nuget\\packages"
+    ]
+  }
+}

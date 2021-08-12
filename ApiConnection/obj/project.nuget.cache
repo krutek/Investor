@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/FX8/EkizfWmIXijNk6tvxR+M0CRtMXLBJO0azYeVB4v6hTSlnA2mLOn/6DonqklHTwleduBtdmAJ0/6n/LEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lartek\\source\\repos\\Investor\\ApiConnection\\ApiConnection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lartek\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
